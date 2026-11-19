@@ -7,10 +7,12 @@
 - Email: lorem@example.com
 - Phone: +1 (555) 010-0000
 - Telegram: https://t.me/lorem_ipsum
+- Booking: https://calendly.com/ilyar/meet
 
 ## Profile
 - LinkedIn: https://linkedin.com/in/lorem-ipsum
 - GitHub: https://github.com/lorem-ipsum
+- GitLab: https://gitlab.com/lorem-ipsum
 - Website: https://www.example.com
 
 ## Structured summary
@@ -66,6 +68,10 @@
 - Summary: Product delivery across frontend, backend, integrations, and internal tooling for a multi-team platform
 - Scope: customer-facing features, API integrations, admin tools, and release support
 - Stack: TypeScript, React, Next.js, Node.js, PostgreSQL, Redis, Docker
+- Responsibilities: API design, code review, mentoring
+- Delivery: [Release notes](https://www.example.com/releases)
+- Domain: Developer tools
+- Product stage: Production
 
 #### Platform modernization
 
@@ -73,6 +79,10 @@
 - Summary: Reworked legacy flows and standardized reusable UI and service modules
 - Frontend: React, Next.js, TypeScript
 - Backend: Node.js, PostgreSQL, Redis
+- Scope: Shared authentication and reporting
+- Mobile app: React Native
+- Desktop: Electron
+- Constraint: Backward-compatible APIs
 
 #### Public highlights
 
@@ -89,6 +99,20 @@
 - Summary: Dashboards, workflow automation, and reporting tools for operations teams
 - Scope: internal applications, reporting flows, authentication, and role-based access
 - Stack: TypeScript, Vue.js, Node.js, PostgreSQL, Docker
+- Tooling: Playwright, GitHub Actions
+- Report artifacts: https://www.example.com/reports
+- Constraint: No service downtime during migration
+
+#### Public highlights
+
+- Integration sprint - API prototype
+  - Submission: https://dorahacks.io/buidl/12345
+- [IdentityHub profile](https://identityhub.xyz/lorem-ipsum) - portfolio
+- [Engineering notes](https://medium.com/@loremipsum/platform-modernization-notes) - migration write-up
+- [Integration answer](https://stackoverflow.com/questions/12345678/lorem-platform-integration-pattern) - callback example
+- Community launch - feedback collection
+  - Reddit demo: https://www.reddit.com/r/loremipsum/comments/123456/community_launch_thread/
+- [Launch update](https://x.com/lorem_ipsum/status/1234567890) - release announcement
 
 ### Feb 2020 - Mar 2021 | Ipsum Studio | Frontend Engineer
 
@@ -103,6 +127,8 @@
 - Summary: Client websites, admin panels, APIs, and maintenance work for small teams
 - Scope: UI implementation, backend endpoints, and lightweight automation
 - Stack: JavaScript, Node.js, Express, MySQL
+- Mobile app: React Native companion app
+- Desktop: Electron admin client
 
 ### Jun 2015 - Dec 2016 | Sit Amet Freelance | Developer
 
@@ -116,3 +142,6 @@
 - Degree: Bachelor's degree in Computer Science
 - Area of knowledge: Computer science
 - Specialty: Software engineering
+- Direction of preparation: Software development
+- Qualification level: Bachelor
+- Capstone on developer tools
